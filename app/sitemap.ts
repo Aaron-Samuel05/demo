@@ -1,0 +1,1 @@
+import type {MetadataRoute} from "next";export default function sitemap():MetadataRoute.Sitemap{return [{url:"https://aaronsamuel.dev"},{url:"https://aaronsamuel.dev/work/blinkx"},{url:"https://aaronsamuel.dev/work/femi9"},{url:"https://aaronsamuel.dev/work/crypto-mining-simulator"}]}
